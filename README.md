@@ -22,13 +22,17 @@ dotenv for managing secrets
 📁 Project Structure
 
   📦 internet-speed-twitter-bot/
+
 ├── main.py                     # Main runner script
+
 ├── InternetSpeedTwitterBot.py  # Bot class and core logic
+
 ├── .env                        # Stores Twitter credentials (ignored by Git)
+
 
 ▶️ How to Use
   1. Clone the repository
-     git clone https://github.com/yourusername/internet-speed-twitter-bot.git
+     git clone https://github.com/bunyaminenis/internet-speed-twitter-bot.git
      cd internet-speed-twitter-bot
   2. Install required packages
      pip install selenium python-dotenv
